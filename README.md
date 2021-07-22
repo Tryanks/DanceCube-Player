@@ -9,3 +9,10 @@
 
 
 支持变速，请搭配Malody的effect功能使用。
+
+源代码构建方法：
+```
+cd DanceCube-Player
+pip install requirement.txt
+python main.py
+```
