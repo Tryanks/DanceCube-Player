@@ -46,7 +46,7 @@ def main_gui():
                     popup('转换成功')
 
         if event == 'about':
-            popup('没别的，就是看官方的个别行为不爽，产出了这个工具。\n希望以此促进自制圈繁荣发展，共勉。\nPowered by Tryank')
+            popup('希望以此促进自制圈繁荣发展，共勉。\nPowered by Tryank')
 
 
 def dc_play(files):
